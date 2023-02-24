@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationIcon>AppIcon.ico</ApplicationIcon>
-    <RepositoryUrl>https://github.com/advplyr/audiobookshelf-win</RepositoryUrl>
+    <RepositoryUrl>https://github.com/yuuzhan/audiobookshelf-win</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIcon></PackageIcon>
   </PropertyGroup>
